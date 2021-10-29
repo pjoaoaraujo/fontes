@@ -1,0 +1,25 @@
+    h1, p{margin: 0px!important;}
+           @font-face {
+           font-family: 'Vinila Extended';
+           src: url('https://agenciaactionplay.com.br/wp-content/uploads/2021/10/VinilaExtended-Black.eot');
+           src: url('https://agenciaactionplay.com.br/wp-content/uploads/2021/10/VinilaExtended-Black.eot?#iefix') format('embedded-opentype'),
+           url('https://agenciaactionplay.com.br/wp-content/uploads/2021/10/VinilaExtended-Black.woff2') format('woff2'),
+           url('https://agenciaactionplay.com.br/wp-content/uploads/2021/10/VinilaExtended-Black.woff') format('woff'),
+           url('https://agenciaactionplay.com.br/wp-content/uploads/2021/10/VinilaExtended-Black.ttf') format('truetype'),
+           url('https://agenciaactionplay.com.br/wp-content/uploads/2021/10/VinilaExtended-Black.svg#VinilaExtended-Black') format('svg');
+           font-weight: 900;
+           font-style: normal;
+           font-display: swap;
+           }
+           @font-face {
+           font-family: 'Vinila';
+           src: url('https://agenciaactionplay.com.br/wp-content/uploads/2021/10/VinilaExtended-Regular.eot');
+           src: url('https://agenciaactionplay.com.br/wp-content/uploads/2021/10/VinilaExtended-Regular.eot?#iefix') format('embedded-opentype'),
+           url('https://agenciaactionplay.com.br/wp-content/uploads/2021/10/VinilaExtended-Regular.woff2') format('woff2'),
+           url('https://agenciaactionplay.com.br/wp-content/uploads/2021/10/VinilaExtended-Regular.woff') format('woff'),
+           url('https://agenciaactionplay.com.br/wp-content/uploads/2021/10/VinilaExtended-Regular.ttf') format('truetype'),
+           url('https://agenciaactionplay.com.br/wp-content/uploads/2021/10/VinilaExtended-Regular.svg#VinilaExtended-Regular') format('svg');
+           font-weight: normal;
+           font-style: normal;
+           font-display: swap;
+           }
